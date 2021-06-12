@@ -1,0 +1,29 @@
+[
+  {
+    "type": "container",
+    "name": "",
+    "description": "",
+    "created": "",
+    "last_edited_time": "",
+    "color": "",
+    "owner": "user_id",
+    "shared_users": [
+      {
+        "user_id": "",
+        "canEdit": true,
+        "canShare": true
+      },
+      {
+        "user_id": "",
+        "canEdit": true,
+        "canShare": true
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "name": "",
+    "created": "",
+    "last_edited_time": "",
+  }
+]
